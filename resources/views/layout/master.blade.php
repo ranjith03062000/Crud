@@ -28,7 +28,7 @@
       <div class="iq-sidebar  sidebar-default ">
           <div class="iq-sidebar-logo d-flex align-items-center justify-content-between">
               <a href="" class="header-logo">
-                  <img  class="img-fluid rounded-normal light-logo" alt="logo"><h6 class="logo-title light-logo ml-3"> Cloudies</h6>
+                  <h6 class="logo-title light-logo ml-3"> Cloudies</h6>
               </a>
               <div class="iq-menu-bt-sidebar ml-0">
                   <i class="las la-bars wrapper-menu" style="margin-left:50px;"></i>
